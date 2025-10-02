@@ -1,0 +1,13 @@
+{
+  "SEQUENCE_LENGTH": 10,
+  "LSTM_UNITS": 64,
+  "DENSE_UNITS": 32,
+  "DROPOUT_RATE": 0.2,
+  "EPOCHS": 40,
+  "BATCH_SIZE": 64,
+  "THRESHOLD_TYPE": "percentile",
+  "THRESHOLD_PERCENTILE": 99,
+  "THRESHOLD_KSTD": 3,
+  "RANDOM_SEED": 42,
+  "RESULTS_DIR": "outputs"
+}

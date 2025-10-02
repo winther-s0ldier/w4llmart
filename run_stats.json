@@ -1,0 +1,8 @@
+{
+  "mean_reconstruction_error": 0.0009456516482065535,
+  "std_reconstruction_error": 0.0010886757894893726,
+  "min_reconstruction_error": 0.00014109891344206053,
+  "max_reconstruction_error": 0.05442138052014378,
+  "final_loss": 0.00189363828394562,
+  "anomaly_threshold": 0.004203455716468587
+}
